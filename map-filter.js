@@ -7,6 +7,15 @@ map() does not change the original array.
 // syntax:-  array.map(function(currentValue, index, array));
 // index, array are optional
 
+/*
+The filter() method creates a new array filled with elements that pass a test provided by a function.
+The filter() method does not execute the function for empty elements.
+The filter() method does not change the original array.
+
+// syntax:- array.filter(function(currentValue, index, array));
+// index, array are optional
+*/
+
 
 // 1. tradational way
 const num = [2, 3, 4, 5, 6, 7];
