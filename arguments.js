@@ -36,5 +36,5 @@ function seeArgs(a, b) {
 console.log(seeArgs(2, 1, 4, 5, 3));
 
 
-// hoisting: jekono kisu ekta declare krso & oitar-
-// scope ke upor er level eniye jawya.
+// hoisting: jekono kisu ekta declare krso & oitar scope ke-
+// upor er level eniye jawya.
